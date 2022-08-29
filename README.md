@@ -1,3 +1,6 @@
+JACK TARANTINO 
+ID: 9887370278
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
